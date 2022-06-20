@@ -1,2 +1,2 @@
-# high-performance-code
-This repository provides a notebook to compare ML &amp; DL concurrence processing performance. 
+# High Performance Machine Learning with NVIDIA CUDA API Parallelization
+This repository provides a Google Colab with an ML pipeline to simulate concurrency. 
